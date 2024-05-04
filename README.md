@@ -1,2 +1,2 @@
 # GeniusNest
-School Institute website
+School Institute website project
